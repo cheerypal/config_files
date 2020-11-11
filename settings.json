@@ -31,7 +31,9 @@
             "fontFace": "Cascadia Code PL",
             "fontSize": 10,
             "closeOnExit": "always",
-            "colorScheme": "Settings"
+            "colorScheme": "Settings",
+	    "padding": "20,20,20,20"
+
         },
         "list":
         [
