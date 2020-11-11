@@ -28,7 +28,7 @@
         "defaults":
         {
             "cursorShape": "filledBox",
-            "fontFace": "Cascadia Code",
+            "fontFace": "Cascadia Code PL",
             "fontSize": 10,
             "closeOnExit": "always",
             "colorScheme": "Settings"
