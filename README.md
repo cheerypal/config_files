@@ -1,3 +1,3 @@
 # config_files
 
-This repo contains config file for my well used applications
+This repo contains config file for me or for you
